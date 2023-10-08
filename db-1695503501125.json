@@ -1,0 +1,45 @@
+{
+  "golosinas": [
+    {
+      "nombre": "club_social",
+      "id": "01",
+      "stock": 10,
+      "disponibilidad": true,
+      "precio": 1.1
+    },
+    {
+      "nombre": "samba",
+      "id": "02",
+      "stock": 10,
+      "disponibilidad": true,
+      "precio": 1.1
+    },
+    {
+      "nombre": "cocosette",
+      "codigo": "03",
+      "stock": 10,
+      "disponibilidad": true,
+      "precio": 0.8
+    },
+    {
+      "nombre": "m&m",
+      "codigo": "04",
+      "stock": 10,
+      "disponibilidad": true,
+      "precio": 1.5
+    },
+    {
+      "nombre": "papa_lays",
+      "codigo": "11",
+      "stock": 10,
+      "disponibilidad": true,
+      "precio": 1.5
+    }
+  ],
+  "usuarios": [
+    {
+      "user": "admin",
+      "pass": "TecChu2022"
+    }
+  ]
+}

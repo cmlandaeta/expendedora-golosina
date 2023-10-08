@@ -1,0 +1,74 @@
+{
+  "golosinas": [
+    {
+      "nombre": "club social",
+      "id": 10,
+      "stock": 5,
+      "disponibilidad": "Disponible",
+      "precio": "2",
+      "img": "./img/clubsocial.jpg"
+    },
+    {
+      "nombre": "samba",
+      "id": 11,
+      "stock": 8,
+      "disponibilidad": "Disponible",
+      "precio": "2",
+      "img": "./img/samba.jpg"
+    },
+    {
+      "nombre": "cocossete",
+      "id": 12,
+      "stock": 10,
+      "disponibilidad": "Disponible",
+      "precio": "3",
+      "img": "./img/cocossette.webp"
+    },
+    {
+      "nombre": "m&m",
+      "id": 13,
+      "stock": "10",
+      "disponibilidad": "Disponible",
+      "precio": "3",
+      "img": "./img/M&Ms.webp"
+    },
+    {
+      "nombre": "papa lays",
+      "id": 21,
+      "stock": 9,
+      "disponibilidad": "Disponible",
+      "precio": 1.5,
+      "img": "./img/lays.jpg"
+    },
+    {
+      "nombre": "kitkat",
+      "id": 22,
+      "stock": 10,
+      "disponibilidad": "Disponible",
+      "precio": 1.5,
+      "img": "./img/kitkat.jpeg"
+    },
+    {
+      "nombre": "OREO",
+      "id": 23,
+      "stock": 10,
+      "disponibilidad": "Disponible",
+      "precio": 1.5,
+      "img": "./img/oreo.png"
+    },
+    {
+      "nombre": "TWIX",
+      "id": 24,
+      "stock": 10,
+      "disponibilidad": "Disponible",
+      "precio": 1.5,
+      "img": "./img/twix.png"
+    }
+  ],
+  "usuarios": [
+    {
+      "user": "admin",
+      "pass": "TecChu2022"
+    }
+  ]
+}

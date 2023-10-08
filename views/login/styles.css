@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url();
+  background-repeat: no-repeat;
+  padding-bottom: 5rem;
+}
+.titulo {
+  font-weight: bold;
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: #344;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+.container {
+  background-color: white;
+  border-radius: 1%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+header {
+  margin-top: 3rem;
+}
+header h1 {
+  color: white;
+}
+label {
+  margin-top: 2rem;
+  color: #344;
+}
+
+.container_golosinas {
+  margin: 7rem;
+  margin-top: 7rem;
+  gap: 1rem;
+}
+.menu_botones {
+  display: grid;
+  align-items: baseline;
+  justify-items: center;
+}
+.btn1 {
+  margin-left: 2rem;
+}
+.btn2 {
+  margin: 0.4rem;
+  font-size: 0.7rem;
+  border-radius: 10%;
+  background-color: rgba(0, 68, 255, 0.767);
+}
+
+.card {
+  color: blue;
+  font-size: 1rem;
+  border-radius: 1%;
+  border-color: aqua;
+  margin-bottom: 1rem;
+}
+
+.switch {
+  background-image: url(../img/open.jpeg);
+}
+.boton {
+  margin-top: 1rem;
+}
+
+.mostrar_chucheria {
+  margin-left: 5rem;
+}
+
+.grid_chucheria {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 1rem;
+  gap: 2rem;
+}

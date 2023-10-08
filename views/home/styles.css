@@ -1,0 +1,78 @@
+html {
+  min-height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(../img/logo2s.png);
+  background-repeat: no-repeat;
+  padding-bottom: 5rem;
+  width: 100%;
+}
+.titulo {
+  font-weight: bold;
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: #344;
+  margin-top: 1rem;
+}
+.container {
+  background-color: white;
+  border-radius: 1%;
+}
+header {
+  margin-top: 3rem;
+}
+header h1 {
+  color: white;
+}
+.contenedor {
+  margin-right: 7rem;
+  margin-left: 7rem;
+}
+.contenedor_golosinas {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  grid-template-columns: repeat(4, 4fr);
+  margin-top: 4rem;
+  gap: 1.5rem;
+}
+.menu_botones {
+  display: grid;
+  align-items: baseline;
+  justify-items: center;
+  margin-top: 2rem;
+}
+.btn1 {
+  margin-left: 2rem;
+}
+.btn2 {
+  margin: 1rem;
+  font-size: 1rem;
+}
+
+.switch {
+  background-image: url(../img/open.jpeg);
+}
+
+.open {
+  display: flex;
+  justify-content: space-around;
+  border-radius: 10%;
+}
+
+.img_open {
+  border-radius: 10%;
+  background-image: url(../img/open.jpeg);
+}
+
+.img_closed {
+  border-radius: 10%;
+  background-image: url(./img/closed.png);
+}
+
+.mostrar {
+  display: flex;
+}
